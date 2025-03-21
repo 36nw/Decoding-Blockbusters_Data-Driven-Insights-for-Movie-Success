@@ -71,13 +71,13 @@ The dataset used in this project is a publicly available dataset containing info
 
 ## Project Structure
 
-Decoding_Blockbusters
+Decoding_Blockbusters/
 * data/              # Contains the movie dataset
 * notebooks/         # Jupyter notebooks with analysis and code
 * visualizations/    # Saved visualizations and dashboards
+* docs/              # Project reports and documentation
 * requirements.txt   # Python dependencies
 * README.md          # This file
-
 
 ## Setup & Installation
 
