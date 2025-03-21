@@ -1,4 +1,4 @@
-# Decoding Blockbusters - Data-Driven Insights for Movie Success
+# Decoding Blockbusters: Data-Driven Insights for Movie Success
 
 ## Table of Contents
 
