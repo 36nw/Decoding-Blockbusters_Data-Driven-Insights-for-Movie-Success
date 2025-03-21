@@ -1,5 +1,3 @@
-# Decoding Blockbusters: The Data-Driven Path to Movie Success
-
 ## Project Overview
 
 This project aimed to demystify the complex dynamics of the movie industry by analyzing a large movie dataset to uncover the key drivers of financial performance and critical reception. The goal was to provide actionable insights for producers, distributors, and marketers, empowering them to make data-driven strategic decisions and navigate the uncertainties of movie production with greater confidence.
